@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=erengunduzvar" alt="erengunduzvar" /></a> </p>
 
-- 🌱 I’m currently learning **Spring Boot and React**
+- 🌱 I’m currently learning **Spring Boot and Vue**
 
 - 💬 Ask me about **Spring Boot, Asp.Net and React**
 
