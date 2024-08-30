@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Spring Boot and Vue**
 
-- 💬 Ask me about **Spring Boot, Asp.Net and React**
+- 💬 Ask me about **Spring Boot, Asp.Net, Desktop Apps in general **
 
 - 📫 How to reach me **gunduzvareren@gmail.com**
 
